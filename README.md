@@ -9,7 +9,7 @@
 
 - :credit_card: My full name is **Fernando Aaron Martinez Burgos** <img align="right" height="270px" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - :books: My major is **Higher Technician Developer**
-- :earth_europe: I'm living now in **Heerlen, Netherlands**
+- :earth_europe_west: I'm living now in **Heerlen, Netherlands**
 - :sweat_smile: I'm a junior, know C and Java language. Now I'm focus on learning .
 - :monocle_face: I'm interested in coding, workout, eat, sleep, and repeat
 - :sunglasses: My quote is ***"It's not a mistake the first time"*** 
