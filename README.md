@@ -1,5 +1,3 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/FerDevelopment?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/FerDevelopment?style=social"> &nbsp;&nbsp; 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Fernando+Martinez+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
@@ -22,13 +20,13 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdevelopment&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ferdevelopment&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdevelopment&layout=compact&show_icon=true&theme=algolia" alt="FerDevelopment-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ferdevelopment&layout=compact&show_icon=true&theme=algolia" alt="FerDevelopment-stats"/>
 </div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ferdevelopment&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=ferdevelopment&theme=react-dark"/>
-</div>
+#<div align="center">
+ # <img src="http://github-readme-streak-stats.herokuapp.com?user=FerDevelopment&theme=algolia&background=0d1117&hide_border=true" />
+  #<img src="https://activity-graph.herokuapp.com/graph?username=FerDevelopment&theme=react-dark"/>
+#</div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
@@ -44,10 +42,9 @@
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-<p> 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  :handshake: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2025 Fernando Martinez
 </div>
 
