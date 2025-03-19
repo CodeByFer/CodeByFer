@@ -10,7 +10,7 @@
 - :credit_card: My full name is **Fernando Aaron Martinez Burgos** <img align="right" height="270px" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - :books: My major is **Higher Technician Developer**
 - :earth_africa: I'm living now in **Heerlen, Netherlands 🇳🇱**
-- :sweat_smile: I'm a junior, know C and Java language. Now I'm focus on learning .
+- :sweat_smile: I'm a junior, know C and Java language. Now I'm focus on creating my own aplication .
 - :monocle_face: I'm interested in coding, workout, eat, sleep, and repeat
 - :sunglasses: My quote is ***"It's not a mistake the first time"*** 
 
@@ -26,40 +26,34 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ferdevelopment&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ferdevelopment&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ferdevelopment&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
+  <a href="mailto:fernandoaaronmb@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/fer-developer/" target="_blank">
+    <img align="center" alt="Fernando linked in | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
+  <a href="https://www.instagram.com/fer_developer/" target="_blank">
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/ferdevelopment" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  &copy; 2025 Fernando Martinez
 </div>
 
 ------
 
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
 
-Last Edited on: 22/12/2021
