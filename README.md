@@ -10,7 +10,9 @@
 - :earth_africa: I'm living now in **Heerlen, Netherlands 🇳🇱**
 - :sweat_smile: I'm a junior. Now I'm focus on creating my own aplication .
 - :monocle_face: I'm interested in coding, workout, eat, sleep, and repeat
-- :sunglasses: My quote is ***"It's not a mistake the first time"*** 
+- :sunglasses: My quote is ***"It's not a mistake the first time"***
+- I enjoy programming algorithms of all kinds: search, optimisation, security... What I like most is that everything works fast, precise and well.  Besides, of course, the teamwork.
+- Ctrl+Shift+F plus Ctrl+S and execute is my modus operandi 
 <br>
 <br>
 <br>
