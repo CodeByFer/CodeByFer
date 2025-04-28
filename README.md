@@ -52,7 +52,7 @@
 <div align="center">
 
 <img height="150em" src="https://github-readme-stats-fernando-aaron-martinez-burgos-projects.vercel.app/api/top-langs/?username=CodeByFer&layout=compact&show_icon=true&theme=algolia" alt="CodeByFer"/>
-<img height="150em" src="https://github-readme-stats-fernando-aaron-martinez-burgos-projects.vercel.app/api/?username=CodeByFer&layout=compact&show_icon=true&theme=algolia" alt="CodeByFer"/>
+
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
