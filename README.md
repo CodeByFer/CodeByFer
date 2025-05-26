@@ -8,7 +8,7 @@
  I enjoy programming algorithms of all kinds: search, optimisation, security... What I like most is that everything works fast, precise and well.  Besides, of course, the teamwork.
 - :credit_card: My full name is **Fernando Aaron Martinez Burgos** <img align="right" height="270px" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - :books: My major is **Higher Technician Developer**
-- :earth_africa: I'm living now in **Heerlen, Netherlands 🇳🇱**
+- :earth_africa: I'm living now in **Valencia, Spain ES**
 - :sweat_smile: I'm a junior. Now I'm focus on creating my own aplication .
 - :monocle_face: I'm interested in coding, workout, eat, sleep, and repeat
 - :sunglasses: My quote is ***"It's not a mistake the first time"***
